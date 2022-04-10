@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 10 Apr 2022 08:24:57 at https://thevigor-now.com/offer/vigornow/v2_t/?uid=c223cf77-26d2-4b21-8864-727da24818cb +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thevigor-now.com/offer/vigornow/v2_t/?uid=c223cf77-26d2-4b21-8864-727da24818cb -O1 "C:\My Web Sites\v2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 35 links scanned, 34 files written (2072157 bytes overall) [1805318 bytes received at 85967 bytes/sec], 428198 bytes transferred using HTTP compression in 5 files, ratio 30%, 8.7 requests per connection
+(No errors, 0 warnings, 0 messages)
